@@ -10,6 +10,8 @@ A segunda parte é composta por um software que utiliza inteligência artificial
 
 Além disso, conseguimos identificar atributos (força, velocidade e inteligência) dos mortos-vivos por meio de cálculos "muito avançados".
 
+Link para o vídeo apresentação: [link](https://youtu.be/0HX4v13aovs)
+
 ## Descrição do projeto
 
 Projeto realizado para a etapa bônus do DSIN CODER CHALLENGE 2023.
