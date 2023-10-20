@@ -1,18 +1,12 @@
 '''
 Descrição: o sistema de auxílio ao pato de combate irá identificar a classe do ser e a partir disso irá sugerir ações
-IA será treinada com imagens geradas pelo Dall-e  ->  
+IA será treinada com imagens tiradas do dead island 2 ->  
 
 classes: 
-   - humano
    - Z mutante
    - Z tanque
    - Z estrategista
-   - Z comum
-
-pontos fracos (de acordo com a classe):
-   - Z mutante
-   - Z tanque
-   - Z estrategista
+   - Z corredor
    - Z comum
 
 Simulador:
