@@ -1,0 +1,1000 @@
+idade,sexo,peso,altura,tipo_sanguineo,gosto_musical,esporte,jogo_favorito,forca,velocidade,inteligencia,categoria
+1,F,25.41,161,B-,Outro,Luta,League of Legends,50,45,70,Estrategista
+4,F,16.84,157,B+,Funk,Atletismo,FIFA,30,100,55,Corredor
+4,F,18.79,111,A-,Funk,Luta,Counter-Strike,50,80,55,Comum
+40,M,66.74,114,O-,Rock,Vôlei,Rocket League,80,50,30,Tanque
+10,M,46.93,77,A+,Rock,eSports,Dota,60,30,65,Comum
+20,F,57.43,105,AB+,Eletrônica,Futebol,Valorant,30,100,55,Corredor
+22,F,78.42,96,B+,Pop,Vôlei,Valorant,50,65,55,Comum
+37,M,51.11,141,B-,Pop,Vôlei,Counter-Strike,80,50,30,Tanque
+24,M,65.01,181,AB+,Funk,Basquete,FIFA,80,45,50,Tanque
+7,M,11.03,139,AB+,Sertanejo,Atletismo,World of Warcraft,60,80,30,Comum
+25,M,59.63,150,A-,Eletrônica,Atletismo,World of Warcraft,60,95,30,Comum
+25,F,36.92,163,AB-,Eletrônica,Luta,Valorant,50,60,55,Comum
+13,F,48.26,160,B-,Eletrônica,eSports,Outro,30,60,75,Estrategista
+2,M,18.94,128,AB+,Sertanejo,Futebol,Minecraft,60,80,30,Comum
+39,M,89.89,96,A-,Funk,Nenhum,Valorant,60,65,30,Comum
+40,M,64.87,127,O+,Sertanejo,Vôlei,Dota,80,50,45,Tanque
+24,M,61.88,142,B-,Eletrônica,Luta,Valorant,80,65,30,Comum
+25,F,71.37,114,AB-,Sertanejo,Nenhum,Fortnite,30,65,55,Corredor
+18,M,85.8,151,AB-,Funk,Nenhum,Minecraft,60,65,30,Comum
+38,M,61.55,131,O+,Pop,Basquete,The Witcher,60,50,50,Comum
+26,M,85.22,159,B-,Eletrônica,Basquete,League of Legends,60,65,65,Mutante especial
+14,F,57.58,116,B+,Pop,Basquete,Valorant,30,65,75,Estrategista
+9,F,42.5,112,B-,Rock,Atletismo,Minecraft,30,95,55,Corredor
+10,F,48.82,193,A-,Pop,Basquete,Dota,50,45,90,Estrategista
+21,M,89.39,141,B-,Outro,Nenhum,Outro,60,50,30,Comum
+17,F,92.72,157,B-,Rock,eSports,FIFA,30,45,75,Estrategista
+6,F,15.72,107,AB-,Outro,Futebol,Rocket League,30,95,55,Corredor
+16,M,73.12,129,B-,Sertanejo,Vôlei,Fortnite,80,50,30,Tanque
+1,F,32.97,160,AB-,Rock,Basquete,Rocket League,30,65,75,Estrategista
+19,M,36.07,187,AB-,Pop,Vôlei,Valorant,100,30,30,Tanque
+36,F,50.16,118,O-,Funk,Luta,Dota,50,80,70,Estrategista
+25,F,63.28,116,O-,Funk,Atletismo,Rocket League,30,100,55,Corredor
+30,M,64.27,139,B+,Pop,eSports,The Witcher,60,30,50,Comum
+20,M,67.71,94,AB+,Pop,Basquete,Fortnite,60,50,50,Comum
+20,F,54.99,139,B-,Outro,Nenhum,League of Legends,30,65,70,Estrategista
+15,F,46.06,138,A+,Rock,Futebol,Rocket League,30,95,55,Corredor
+40,M,68.05,162,O+,Pop,Basquete,Valorant,60,30,50,Comum
+33,F,67.16,182,AB-,Pop,eSports,Valorant,50,25,75,Comum
+2,M,24.8,157,AB-,Outro,Basquete,League of Legends,60,50,65,Estrategista
+10,M,43.04,162,O-,Outro,Nenhum,Rocket League,60,30,30,Comum
+33,M,55.9,142,AB+,Pop,Luta,World of Warcraft,80,50,30,Tanque
+32,F,64.05,129,O-,Outro,Futebol,FIFA,30,95,55,Corredor
+11,F,45.28,80,A+,Pop,Basquete,Fortnite,30,65,75,Estrategista
+24,F,88.9,113,AB-,Eletrônica,Futebol,World of Warcraft,30,100,55,Corredor
+36,F,73.61,147,O+,Eletrônica,eSports,The Witcher,30,60,75,Estrategista
+12,F,45.39,91,B-,Outro,Atletismo,Valorant,30,95,55,Corredor
+29,M,65.79,147,B+,Funk,Futebol,World of Warcraft,60,95,30,Comum
+35,F,52.3,128,O+,Rock,Luta,Rocket League,50,65,55,Comum
+1,M,21.76,109,A-,Funk,Futebol,Rocket League,60,95,30,Comum
+1,M,19.24,126,AB-,Funk,Futebol,Dota,60,95,45,Comum
+37,F,88.78,162,AB-,Rock,eSports,League of Legends,30,25,90,Comum
+6,M,26.38,167,AB-,Outro,Atletismo,Outro,60,60,30,Comum
+39,F,68.63,82,AB+,Rock,eSports,League of Legends,30,45,90,Estrategista
+41,M,63.98,136,O+,Funk,eSports,Dota,60,45,65,Estrategista
+18,M,78.43,167,B-,Pop,Atletismo,Assassins Creed,60,60,30,Comum
+16,M,54.88,132,A+,Pop,Nenhum,Minecraft,60,50,30,Comum
+5,F,18.62,143,B-,Outro,Nenhum,Dota,30,65,70,Estrategista
+42,F,63.8,95,A-,Outro,Vôlei,World of Warcraft,50,65,55,Comum
+43,F,72.3,126,B-,Sertanejo,Futebol,Rocket League,30,95,55,Corredor
+2,M,27.96,116,A+,Sertanejo,Atletismo,League of Legends,60,80,45,Comum
+2,F,18.71,97,B-,Outro,Atletismo,Valorant,30,95,55,Corredor
+40,F,82.33,144,B-,Funk,Nenhum,Rocket League,30,80,55,Corredor
+42,M,66.8,164,AB+,Rock,Nenhum,Outro,60,30,30,Comum
+36,M,51.32,176,B+,Eletrônica,Luta,FIFA,80,45,30,Tanque
+39,F,52.43,124,AB-,Rock,eSports,FIFA,30,45,75,Estrategista
+12,M,41.73,147,A-,Eletrônica,Futebol,Outro,60,95,30,Comum
+19,F,62.86,156,O+,Outro,Nenhum,Valorant,30,65,55,Corredor
+28,M,44.31,159,B+,Rock,Futebol,Minecraft,60,80,30,Comum
+1,F,17.34,124,O+,Outro,Futebol,Fortnite,30,95,55,Corredor
+15,M,71.94,191,B-,Rock,Luta,League of Legends,100,30,45,Tanque
+36,F,48.91,119,B+,Eletrônica,Basquete,Counter-Strike,30,80,75,Estrategista
+13,M,48.19,161,AB-,Pop,Basquete,League of Legends,60,30,65,Comum
+43,F,82.55,139,O+,Sertanejo,Basquete,Counter-Strike,30,65,75,Estrategista
+21,F,72.08,122,A-,Funk,Vôlei,Dota,50,80,70,Estrategista
+12,F,49.15,121,B+,Funk,Luta,Outro,50,80,55,Comum
+5,F,21.38,122,A-,Outro,Luta,Dota,50,65,70,Estrategista
+7,F,27.18,127,A+,Pop,eSports,FIFA,30,45,75,Estrategista
+5,F,22.54,109,A+,Pop,Vôlei,Dota,50,65,70,Estrategista
+4,M,19.42,161,B-,Funk,eSports,The Witcher,60,25,50,Comum
+13,F,38.16,119,O+,Eletrônica,Futebol,Outro,30,100,55,Corredor
+37,M,72.47,122,B+,Funk,eSports,FIFA,60,45,50,Comum
+41,F,65.68,155,AB-,Outro,Basquete,Minecraft,30,65,75,Estrategista
+15,M,80.68,137,AB-,Rock,Atletismo,Rocket League,60,80,30,Comum
+16,F,55.93,97,A+,Eletrônica,Basquete,Counter-Strike,30,80,75,Estrategista
+21,M,74.11,112,AB-,Pop,eSports,Fortnite,60,30,50,Comum
+36,F,49.08,134,B+,Funk,Luta,Rocket League,50,80,55,Comum
+24,M,81.93,123,AB-,Pop,Vôlei,Fortnite,80,50,30,Tanque
+16,F,68.28,163,A+,Outro,eSports,The Witcher,30,25,75,Comum
+14,M,57.62,117,O-,Eletrônica,Vôlei,Valorant,80,65,30,Comum
+22,M,50.19,111,B-,Rock,Luta,Dota,80,50,45,Tanque
+6,M,24.69,110,A+,Outro,eSports,Outro,60,30,50,Comum
+42,F,74.59,152,A+,Outro,eSports,Valorant,30,45,75,Estrategista
+36,M,75.46,155,A-,Rock,Luta,Valorant,80,50,30,Tanque
+1,F,17.52,90,O-,Pop,Vôlei,Valorant,50,65,55,Comum
+32,F,67.1,159,B-,Eletrônica,Nenhum,Valorant,30,80,55,Corredor
+6,F,20.06,166,AB+,Rock,Luta,World of Warcraft,50,45,55,Comum
+31,F,67.66,89,O+,Outro,Nenhum,World of Warcraft,30,65,55,Corredor
+1,M,23.45,119,B+,Rock,Basquete,Assassins Creed,60,50,50,Comum
+37,F,69.12,183,AB+,Rock,Vôlei,League of Legends,70,45,70,Tanque
+35,M,55.74,170,AB-,Eletrônica,eSports,League of Legends,60,25,65,Comum
+30,F,63.04,141,O+,Rock,Vôlei,World of Warcraft,50,65,55,Comum
+4,M,21.13,155,AB+,Eletrônica,Atletismo,Outro,60,95,30,Comum
+35,F,64.31,203,A-,Pop,Nenhum,Minecraft,50,45,55,Comum
+43,F,72.99,155,AB+,Eletrônica,Basquete,Minecraft,30,80,75,Estrategista
+14,M,44.86,103,O-,Pop,eSports,Assassins Creed,60,30,50,Comum
+40,F,78.56,181,A+,Pop,Basquete,The Witcher,50,45,75,Estrategista
+22,F,86.08,114,A-,Rock,Futebol,Minecraft,30,95,55,Corredor
+10,F,39.34,170,A-,Pop,Atletismo,The Witcher,30,75,55,Corredor
+1,F,18.09,160,AB-,Pop,Luta,FIFA,50,65,55,Comum
+11,F,39.48,167,A-,Sertanejo,Vôlei,Dota,50,45,70,Estrategista
+44,F,82.79,186,O+,Outro,Atletismo,Assassins Creed,50,75,55,Comum
+24,F,37.78,96,O-,Outro,Futebol,Fortnite,30,95,55,Corredor
+3,F,25.32,138,B-,Sertanejo,Futebol,Counter-Strike,30,95,55,Corredor
+35,M,71.54,198,AB+,Sertanejo,Basquete,Outro,80,30,50,Tanque
+36,F,66.64,169,A-,Funk,Vôlei,FIFA,50,60,55,Comum
+31,M,99.52,145,AB-,Eletrônica,Futebol,Assassins Creed,60,95,30,Comum
+4,F,23.62,109,A+,Eletrônica,Luta,World of Warcraft,50,80,55,Comum
+19,M,60.07,143,A+,Sertanejo,Basquete,Dota,60,50,65,Estrategista
+36,M,46.34,113,A-,Rock,Atletismo,Outro,60,80,30,Comum
+21,M,64.89,96,B-,Sertanejo,Nenhum,Fortnite,60,50,30,Comum
+18,F,50.45,157,B+,Eletrônica,Nenhum,FIFA,30,80,55,Corredor
+28,F,77.0,142,O-,Sertanejo,eSports,Rocket League,30,45,75,Estrategista
+15,M,72.42,117,A-,Outro,Vôlei,FIFA,80,50,30,Tanque
+42,F,74.8,152,O-,Rock,Basquete,League of Legends,30,65,90,Estrategista
+2,F,22.06,125,O+,Eletrônica,Atletismo,World of Warcraft,30,100,55,Corredor
+37,M,56.39,193,B+,Pop,eSports,Outro,80,10,50,Tanque
+11,F,46.11,139,AB-,Rock,Nenhum,The Witcher,30,65,55,Corredor
+23,M,51.81,187,B-,Outro,Futebol,Minecraft,80,60,30,Comum
+44,M,68.79,116,A-,Funk,Nenhum,Fortnite,60,65,30,Comum
+41,F,93.9,158,O-,Sertanejo,Futebol,World of Warcraft,30,95,55,Corredor
+12,M,33.02,195,O+,Eletrônica,eSports,Fortnite,80,25,50,Tanque
+3,F,17.89,148,O-,Rock,Basquete,World of Warcraft,30,65,75,Estrategista
+17,F,73.77,174,A-,Funk,Futebol,Dota,30,90,70,Estrategista
+33,F,51.84,88,A+,Eletrônica,Basquete,Counter-Strike,30,80,75,Estrategista
+1,F,21.01,161,A-,Eletrônica,Luta,Outro,50,60,55,Comum
+39,M,71.28,141,A-,Sertanejo,Nenhum,Rocket League,60,50,30,Comum
+20,F,71.49,163,A-,Rock,Futebol,FIFA,30,75,55,Corredor
+43,F,47.04,166,AB-,Pop,Vôlei,Rocket League,50,45,55,Comum
+41,F,74.91,72,A+,Eletrônica,Futebol,The Witcher,30,100,55,Corredor
+14,M,47.6,127,B+,Rock,Vôlei,Counter-Strike,80,50,30,Tanque
+31,M,64.34,120,A+,Funk,eSports,Fortnite,60,45,50,Comum
+25,F,70.06,145,A+,Pop,Nenhum,FIFA,30,65,55,Corredor
+3,F,27.82,82,A-,Eletrônica,Basquete,Valorant,30,80,75,Estrategista
+4,F,16.05,107,A-,Sertanejo,Vôlei,Dota,50,65,70,Estrategista
+31,F,72.02,170,O-,Sertanejo,Futebol,Counter-Strike,30,75,55,Corredor
+35,F,59.98,145,AB-,Outro,Nenhum,Valorant,30,65,55,Corredor
+44,M,69.83,107,AB+,Pop,Nenhum,Fortnite,60,50,30,Comum
+14,F,23.18,132,AB-,Eletrônica,Atletismo,Counter-Strike,30,100,55,Corredor
+41,M,67.39,173,AB-,Eletrônica,Basquete,Outro,60,45,50,Comum
+9,M,31.6,85,AB+,Funk,Nenhum,League of Legends,60,65,45,Comum
+20,F,67.74,134,B-,Funk,Vôlei,Assassins Creed,50,80,55,Comum
+32,M,62.78,133,O+,Sertanejo,Futebol,Rocket League,60,80,30,Comum
+9,F,53.36,146,AB+,Sertanejo,Futebol,Dota,30,95,70,Estrategista
+27,M,83.5,155,A-,Eletrônica,Luta,The Witcher,80,65,30,Comum
+3,M,16.04,197,B-,Rock,Nenhum,Counter-Strike,80,30,30,Tanque
+4,F,14.77,157,B+,Outro,Luta,Dota,50,65,70,Estrategista
+15,M,93.55,122,AB-,Funk,Atletismo,Dota,60,95,45,Comum
+33,F,60.61,178,AB+,Pop,eSports,Valorant,30,25,75,Comum
+5,F,17.41,114,O+,Pop,Basquete,League of Legends,30,65,90,Estrategista
+4,F,16.23,153,AB-,Pop,Luta,League of Legends,50,65,70,Estrategista
+12,F,46.47,187,AB+,Sertanejo,Nenhum,Valorant,50,45,55,Comum
+23,F,59.72,172,A-,Rock,Atletismo,Minecraft,30,75,55,Corredor
+14,F,54.56,164,A-,Pop,Vôlei,Counter-Strike,50,45,55,Comum
+12,M,55.89,73,A+,Sertanejo,Basquete,Outro,60,50,50,Comum
+17,M,78.88,137,O+,Funk,Basquete,Fortnite,60,65,50,Comum
+25,F,58.2,122,O+,Funk,eSports,Counter-Strike,30,60,75,Estrategista
+30,M,52.35,180,O-,Rock,eSports,The Witcher,60,10,50,Comum
+22,M,50.79,165,O+,Outro,eSports,Minecraft,60,10,50,Comum
+26,F,94.92,148,A+,Sertanejo,Luta,Outro,50,65,55,Comum
+17,M,68.98,164,AB+,Outro,Nenhum,Outro,60,30,30,Comum
+20,F,105.4,121,AB+,Eletrônica,Basquete,Counter-Strike,30,80,75,Estrategista
+34,F,78.33,159,B-,Funk,Nenhum,The Witcher,30,80,55,Corredor
+41,M,76.59,143,AB-,Sertanejo,eSports,The Witcher,60,30,50,Comum
+33,F,74.59,90,O-,Rock,Atletismo,Dota,30,95,70,Estrategista
+37,F,84.99,150,AB+,Funk,Basquete,World of Warcraft,30,80,75,Estrategista
+7,F,22.18,161,O+,Sertanejo,Futebol,Assassins Creed,30,75,55,Corredor
+22,F,102.4,176,A-,Outro,Nenhum,Assassins Creed,30,45,55,Comum
+32,M,68.5,156,A-,Eletrônica,Atletismo,FIFA,60,95,30,Comum
+14,F,50.11,170,B-,Eletrônica,eSports,Counter-Strike,30,40,75,Estrategista
+8,M,16.4,88,O-,Rock,Atletismo,Valorant,60,80,30,Comum
+25,F,86.39,129,B+,Funk,Basquete,World of Warcraft,30,80,75,Estrategista
+16,M,54.89,136,O-,Rock,Basquete,Fortnite,60,50,50,Comum
+42,M,78.5,130,B+,Eletrônica,Nenhum,Outro,60,65,30,Comum
+19,F,59.25,137,O+,Rock,eSports,World of Warcraft,30,45,75,Estrategista
+41,M,62.41,123,A-,Funk,Luta,Rocket League,80,65,30,Comum
+16,F,62.66,162,O+,Funk,eSports,FIFA,30,40,75,Estrategista
+12,F,40.42,110,O+,Sertanejo,Futebol,The Witcher,30,95,55,Corredor
+39,M,53.36,144,A+,Sertanejo,Luta,World of Warcraft,80,50,30,Tanque
+30,M,72.89,142,AB-,Outro,Basquete,Counter-Strike,60,50,50,Comum
+2,M,21.05,144,AB-,Pop,Futebol,Fortnite,60,80,30,Comum
+32,M,57.29,112,B+,Sertanejo,Vôlei,Minecraft,80,50,30,Tanque
+25,F,51.8,182,O+,Outro,Nenhum,Valorant,50,45,55,Comum
+25,M,51.96,133,A+,Pop,Nenhum,Rocket League,60,50,30,Comum
+4,F,20.49,97,O-,Sertanejo,Luta,FIFA,50,65,55,Comum
+19,M,83.44,164,A-,Funk,Basquete,The Witcher,60,45,50,Comum
+4,M,20.34,140,A-,Funk,Atletismo,Assassins Creed,60,95,30,Comum
+43,F,72.38,137,A+,Rock,eSports,League of Legends,30,45,90,Estrategista
+13,M,42.13,137,O+,Funk,Atletismo,The Witcher,60,95,30,Comum
+39,F,51.7,152,A-,Funk,Basquete,League of Legends,30,80,90,Estrategista
+36,M,55.88,138,AB+,Pop,Vôlei,The Witcher,80,50,30,Tanque
+23,M,73.82,117,O+,Rock,Nenhum,Fortnite,60,50,30,Comum
+6,F,19.69,97,A-,Funk,Vôlei,Dota,50,80,70,Estrategista
+24,F,61.32,149,AB+,Funk,Futebol,World of Warcraft,30,100,55,Corredor
+44,F,56.13,94,B-,Eletrônica,Atletismo,Outro,30,100,55,Corredor
+33,F,74.94,174,O-,Funk,Vôlei,Fortnite,50,60,55,Comum
+12,F,44.13,111,A+,Eletrônica,Luta,Assassins Creed,50,80,55,Comum
+41,F,100.12,115,B+,Sertanejo,eSports,Rocket League,30,45,75,Estrategista
+21,F,84.07,111,B-,Sertanejo,Vôlei,The Witcher,50,65,55,Comum
+11,M,49.99,99,AB-,Funk,Nenhum,Minecraft,60,65,30,Comum
+44,F,64.19,117,A+,Rock,Luta,World of Warcraft,50,65,55,Comum
+38,M,64.79,131,B+,Funk,Atletismo,Assassins Creed,60,95,30,Comum
+29,M,119.6,70,AB+,Sertanejo,Luta,League of Legends,80,50,45,Tanque
+41,F,47.35,67,B+,Eletrônica,Basquete,Rocket League,30,80,75,Estrategista
+3,M,17.99,119,AB+,Eletrônica,Nenhum,Rocket League,60,65,30,Comum
+28,M,38.73,167,A-,Outro,eSports,FIFA,60,10,50,Comum
+20,F,69.9,101,A-,Sertanejo,Luta,Fortnite,50,65,55,Comum
+26,M,98.65,138,O+,Funk,eSports,World of Warcraft,60,45,50,Comum
+24,F,63.87,183,AB+,Sertanejo,Basquete,Fortnite,50,45,75,Estrategista
+21,M,86.57,100,B-,Sertanejo,Vôlei,FIFA,80,50,30,Tanque
+30,M,69.01,127,B+,Eletrônica,Basquete,Outro,60,65,50,Comum
+4,F,18.84,118,O+,Eletrônica,Atletismo,FIFA,30,100,55,Corredor
+36,M,66.23,167,O+,Sertanejo,eSports,Counter-Strike,60,10,50,Comum
+40,M,61.2,154,AB+,Eletrônica,Atletismo,The Witcher,60,95,30,Comum
+10,F,52.56,159,B-,Funk,Luta,Minecraft,50,80,55,Comum
+10,F,33.75,215,B+,Funk,Atletismo,League of Legends,50,90,70,Estrategista
+42,M,92.6,189,O-,Pop,Futebol,Assassins Creed,80,60,30,Comum
+24,M,64.1,137,B-,Sertanejo,Luta,FIFA,80,50,30,Tanque
+4,F,21.74,134,AB+,Rock,Futebol,Minecraft,30,95,55,Corredor
+27,M,56.85,97,B+,Outro,eSports,Assassins Creed,60,30,50,Comum
+4,F,14.48,89,B+,Funk,Atletismo,World of Warcraft,30,100,55,Corredor
+32,F,65.9,139,B-,Outro,eSports,Outro,30,45,75,Estrategista
+10,M,47.87,101,AB-,Eletrônica,Vôlei,Assassins Creed,80,65,30,Comum
+11,F,39.4,159,A-,Sertanejo,Vôlei,FIFA,50,65,55,Comum
+28,F,75.94,116,B+,Rock,eSports,Rocket League,30,45,75,Estrategista
+8,M,18.46,123,AB-,Rock,eSports,Assassins Creed,60,30,50,Comum
+40,F,56.96,93,O+,Rock,Atletismo,The Witcher,30,95,55,Corredor
+22,M,63.13,203,B-,Rock,Vôlei,The Witcher,100,30,30,Tanque
+34,M,52.93,163,O-,Funk,Vôlei,The Witcher,80,45,30,Tanque
+35,M,71.94,119,A-,Pop,eSports,Minecraft,60,30,50,Comum
+35,F,70.96,145,O+,Eletrônica,Atletismo,World of Warcraft,30,100,55,Corredor
+25,M,80.58,180,AB-,Funk,Atletismo,World of Warcraft,60,75,30,Comum
+34,M,78.27,112,A+,Pop,Futebol,Fortnite,60,80,30,Comum
+6,M,12.52,197,O+,Funk,Basquete,Assassins Creed,80,45,50,Tanque
+41,M,73.37,109,B-,Eletrônica,Futebol,Rocket League,60,95,30,Comum
+37,F,65.08,135,B+,Funk,Luta,The Witcher,50,80,55,Comum
+1,F,19.16,90,A+,Eletrônica,eSports,The Witcher,30,60,75,Estrategista
+12,M,54.8,64,O-,Sertanejo,Luta,Outro,80,50,30,Tanque
+35,F,127.02,170,AB+,Funk,Vôlei,The Witcher,50,60,55,Comum
+6,F,19.14,143,O-,Sertanejo,eSports,Minecraft,30,45,75,Estrategista
+17,F,72.1,88,A+,Funk,Luta,FIFA,50,80,55,Comum
+9,M,45.9,91,A+,Sertanejo,eSports,Dota,60,30,65,Comum
+2,F,14.93,174,A+,Outro,Nenhum,FIFA,30,45,55,Comum
+18,F,69.2,135,A-,Sertanejo,Vôlei,Assassins Creed,50,65,55,Comum
+36,F,40.76,183,AB-,Sertanejo,eSports,Counter-Strike,50,25,75,Comum
+28,F,55.6,159,AB-,Rock,Nenhum,Counter-Strike,30,65,55,Corredor
+41,F,58.25,138,O-,Pop,Atletismo,Assassins Creed,30,95,55,Corredor
+37,M,71.61,141,A-,Pop,eSports,FIFA,60,30,50,Comum
+26,F,70.21,123,A-,Outro,eSports,Dota,30,45,90,Estrategista
+4,F,10.01,143,O-,Sertanejo,Basquete,The Witcher,30,65,75,Estrategista
+40,M,61.17,138,A+,Outro,Nenhum,Fortnite,60,50,30,Comum
+36,M,67.51,165,B+,Rock,Atletismo,Dota,60,60,45,Comum
+31,M,49.28,135,AB-,Rock,Atletismo,Dota,60,80,45,Comum
+30,M,60.81,165,B+,Eletrônica,Atletismo,League of Legends,60,75,45,Comum
+34,F,64.28,168,A+,Rock,Vôlei,FIFA,50,45,55,Comum
+19,F,51.27,145,O+,Sertanejo,Vôlei,Fortnite,50,65,55,Comum
+18,F,65.05,101,A+,Eletrônica,Basquete,Rocket League,30,80,75,Estrategista
+30,F,57.48,135,B+,Pop,Atletismo,Counter-Strike,30,95,55,Corredor
+21,F,88.53,83,O-,Pop,Basquete,World of Warcraft,30,65,75,Estrategista
+3,M,20.73,104,B-,Funk,Nenhum,Fortnite,60,65,30,Comum
+6,F,12.59,162,O+,Sertanejo,Nenhum,League of Legends,30,45,70,Estrategista
+38,M,76.42,155,O-,Outro,eSports,League of Legends,60,30,65,Comum
+13,M,39.82,140,AB+,Funk,Vôlei,Outro,80,65,30,Comum
+3,M,14.14,131,A+,Pop,Nenhum,Assassins Creed,60,50,30,Comum
+28,F,64.35,118,AB-,Rock,Nenhum,Valorant,30,65,55,Corredor
+22,F,56.36,125,A+,Eletrônica,Atletismo,Outro,30,100,55,Corredor
+40,M,67.82,169,A-,Outro,Basquete,Counter-Strike,60,30,50,Comum
+40,M,61.96,154,A-,Funk,eSports,League of Legends,60,45,65,Estrategista
+12,M,47.07,99,A+,Sertanejo,Nenhum,Rocket League,60,50,30,Comum
+23,M,55.29,146,B-,Pop,Luta,Valorant,80,50,30,Tanque
+31,M,61.48,144,O+,Pop,Nenhum,Assassins Creed,60,50,30,Comum
+18,M,61.13,189,B-,Outro,Atletismo,Rocket League,80,60,30,Comum
+7,F,21.03,87,AB-,Eletrônica,Luta,Rocket League,50,80,55,Comum
+8,M,22.66,117,AB-,Pop,Luta,World of Warcraft,80,50,30,Tanque
+19,M,75.53,169,A-,Outro,Nenhum,World of Warcraft,60,30,30,Comum
+29,M,65.71,107,AB+,Funk,Futebol,Assassins Creed,60,95,30,Comum
+44,M,64.23,212,A+,Outro,Atletismo,Valorant,80,60,30,Comum
+20,M,78.42,105,O+,Pop,eSports,Fortnite,60,30,50,Comum
+42,F,81.66,141,B-,Pop,Basquete,Valorant,30,65,75,Estrategista
+30,M,70.23,157,B-,Eletrônica,Nenhum,League of Legends,60,65,45,Comum
+22,F,87.12,166,AB-,Rock,Basquete,Assassins Creed,30,45,75,Estrategista
+10,M,40.21,161,O+,Outro,Basquete,League of Legends,60,30,65,Comum
+26,M,45.03,126,A+,Sertanejo,Luta,Dota,80,50,45,Tanque
+33,F,76.46,167,AB-,Outro,Atletismo,Fortnite,30,75,55,Corredor
+28,M,69.36,117,O-,Sertanejo,Futebol,Fortnite,60,80,30,Comum
+10,F,38.05,124,AB+,Funk,Vôlei,Fortnite,50,80,55,Comum
+29,F,86.74,154,O-,Outro,Futebol,Minecraft,30,95,55,Corredor
+44,F,56.19,185,A-,Sertanejo,eSports,The Witcher,50,25,75,Comum
+18,F,45.7,133,A+,Eletrônica,eSports,The Witcher,30,60,75,Estrategista
+42,F,86.59,113,AB+,Eletrônica,Basquete,World of Warcraft,30,80,75,Estrategista
+1,F,20.96,176,B+,Pop,Futebol,Counter-Strike,30,75,55,Corredor
+23,M,59.71,102,B+,Outro,Nenhum,Minecraft,60,50,30,Comum
+17,F,73.07,195,AB+,Pop,eSports,League of Legends,50,25,90,Comum
+43,M,59.71,110,AB-,Funk,Luta,Assassins Creed,80,65,30,Comum
+37,M,46.12,159,O+,Outro,Basquete,Valorant,60,50,50,Comum
+31,F,70.51,168,A-,Rock,eSports,Outro,30,25,75,Comum
+25,F,58.28,164,A+,Pop,Futebol,Assassins Creed,30,75,55,Corredor
+4,F,21.23,147,O-,Eletrônica,eSports,Assassins Creed,30,60,75,Estrategista
+9,M,43.97,141,O+,Pop,eSports,Valorant,60,30,50,Comum
+28,F,59.67,90,B-,Funk,Futebol,Dota,30,100,70,Estrategista
+30,F,66.85,117,A+,Funk,Vôlei,Counter-Strike,50,80,55,Comum
+24,M,85.78,162,A-,Pop,eSports,League of Legends,60,10,65,Comum
+33,F,83.62,160,B+,Rock,eSports,Assassins Creed,30,45,75,Estrategista
+20,M,53.6,109,O+,Sertanejo,Basquete,Rocket League,60,50,50,Comum
+9,F,37.91,150,AB-,Outro,Vôlei,Dota,50,65,70,Estrategista
+8,M,19.11,148,A+,Eletrônica,Basquete,Dota,60,65,65,Mutante especial
+24,F,52.71,193,AB-,Rock,Nenhum,Counter-Strike,50,45,55,Comum
+14,M,38.96,127,AB+,Funk,Vôlei,Valorant,80,65,30,Comum
+18,F,64.57,124,A+,Eletrônica,Futebol,Rocket League,30,100,55,Corredor
+1,F,17.92,112,AB-,Outro,Luta,Counter-Strike,50,65,55,Comum
+12,M,44.92,110,A+,Eletrônica,Vôlei,The Witcher,80,65,30,Comum
+29,F,67.02,151,O+,Sertanejo,Basquete,Fortnite,30,65,75,Estrategista
+37,F,93.63,119,O+,Funk,Atletismo,Rocket League,30,100,55,Corredor
+26,M,82.74,172,B+,Sertanejo,Atletismo,Counter-Strike,60,60,30,Comum
+33,M,51.57,121,B+,Sertanejo,Vôlei,Outro,80,50,30,Tanque
+43,F,83.33,186,B-,Rock,Futebol,Fortnite,50,75,55,Comum
+15,M,62.25,153,O+,Outro,eSports,World of Warcraft,60,30,50,Comum
+23,F,68.75,148,B+,Funk,eSports,Counter-Strike,30,60,75,Estrategista
+29,F,71.97,105,O+,Funk,Vôlei,Assassins Creed,50,80,55,Comum
+21,M,56.81,150,B+,Rock,Nenhum,League of Legends,60,50,45,Comum
+19,M,50.0,141,O-,Funk,Luta,Valorant,80,65,30,Comum
+5,F,10.19,159,A+,Rock,Basquete,World of Warcraft,30,65,75,Estrategista
+23,M,49.18,125,B+,Funk,Atletismo,Minecraft,60,95,30,Comum
+36,F,31.37,96,O+,Outro,Basquete,Outro,30,65,75,Estrategista
+20,M,57.46,148,A+,Pop,Nenhum,The Witcher,60,50,30,Comum
+8,F,13.93,144,A+,Funk,Basquete,Valorant,30,80,75,Estrategista
+9,F,50.28,147,AB+,Pop,Vôlei,Outro,50,65,55,Comum
+14,F,38.78,170,A+,Outro,Futebol,Fortnite,30,75,55,Corredor
+6,F,26.48,112,B-,Sertanejo,Basquete,Fortnite,30,65,75,Estrategista
+1,F,23.08,69,O-,Sertanejo,Nenhum,Assassins Creed,30,65,55,Corredor
+9,F,39.06,154,A+,Sertanejo,Futebol,The Witcher,30,95,55,Corredor
+16,F,48.45,152,A+,Eletrônica,Luta,Minecraft,50,80,55,Comum
+16,M,86.29,126,A-,Sertanejo,eSports,Minecraft,60,30,50,Comum
+12,M,42.9,145,B-,Pop,Luta,Counter-Strike,80,50,30,Tanque
+5,M,17.73,109,A-,Outro,eSports,League of Legends,60,30,65,Comum
+40,F,67.6,77,AB+,Rock,eSports,Rocket League,30,45,75,Estrategista
+29,M,70.04,89,O-,Rock,Futebol,Assassins Creed,60,80,30,Comum
+27,M,47.46,141,O-,Eletrônica,Vôlei,The Witcher,80,65,30,Comum
+11,M,41.86,181,O-,Funk,Vôlei,Valorant,100,45,30,Tanque
+28,M,73.98,128,A+,Sertanejo,Vôlei,World of Warcraft,80,50,30,Tanque
+36,F,86.95,164,O+,Funk,Atletismo,League of Legends,30,90,70,Estrategista
+42,F,75.24,122,O+,Rock,Nenhum,World of Warcraft,30,65,55,Corredor
+19,M,69.61,138,O-,Pop,Luta,The Witcher,80,50,30,Tanque
+35,F,46.56,164,B-,Eletrônica,Nenhum,Minecraft,30,60,55,Comum
+31,F,60.74,144,O-,Eletrônica,Luta,Outro,50,80,55,Comum
+44,F,77.82,124,B-,Eletrônica,eSports,Dota,30,60,90,Estrategista
+19,F,86.21,114,AB+,Sertanejo,Basquete,Counter-Strike,30,65,75,Estrategista
+24,F,83.34,137,B+,Eletrônica,Futebol,Rocket League,30,100,55,Corredor
+2,M,16.22,175,B-,Pop,Atletismo,Assassins Creed,60,60,30,Comum
+7,F,21.51,93,B+,Pop,eSports,Minecraft,30,45,75,Estrategista
+43,M,113.22,166,AB+,Eletrônica,Nenhum,Outro,60,45,30,Comum
+31,F,61.09,149,O+,Rock,Atletismo,Counter-Strike,30,95,55,Corredor
+17,M,58.55,111,AB-,Outro,Nenhum,Counter-Strike,60,50,30,Comum
+27,M,92.78,139,O-,Outro,Basquete,Counter-Strike,60,50,50,Comum
+36,F,73.53,134,AB-,Rock,Futebol,Fortnite,30,95,55,Corredor
+43,M,71.68,112,B+,Eletrônica,Nenhum,FIFA,60,65,30,Comum
+10,F,46.28,124,AB-,Sertanejo,Vôlei,Rocket League,50,65,55,Comum
+14,M,47.02,102,AB+,Rock,Basquete,Minecraft,60,50,50,Comum
+7,M,17.25,78,A+,Eletrônica,Vôlei,Minecraft,80,65,30,Comum
+39,F,58.34,145,A+,Pop,Vôlei,Minecraft,50,65,55,Comum
+40,M,88.69,171,A+,Funk,eSports,Rocket League,60,25,50,Comum
+9,F,49.12,189,A-,Rock,eSports,The Witcher,50,25,75,Comum
+14,M,55.9,107,B-,Sertanejo,Vôlei,Rocket League,80,50,30,Tanque
+8,F,21.59,204,AB+,Outro,Vôlei,Outro,70,45,55,Tanque
+17,M,64.7,186,B+,Funk,eSports,Valorant,80,25,50,Tanque
+23,M,81.14,183,AB+,Funk,Luta,The Witcher,100,45,30,Tanque
+16,F,82.66,116,A-,Sertanejo,eSports,The Witcher,30,45,75,Estrategista
+26,F,75.14,123,B+,Sertanejo,eSports,Dota,30,45,90,Estrategista
+9,M,44.25,82,O+,Eletrônica,Basquete,Assassins Creed,60,65,50,Comum
+36,F,93.56,146,O+,Pop,eSports,Fortnite,30,45,75,Estrategista
+7,M,16.1,128,A-,Sertanejo,Atletismo,Outro,60,80,30,Comum
+18,M,71.37,145,O-,Sertanejo,Futebol,Minecraft,60,80,30,Comum
+8,M,25.23,115,B+,Funk,Luta,Minecraft,80,65,30,Comum
+21,F,97.02,160,B-,Rock,Basquete,Valorant,30,65,75,Estrategista
+26,F,84.21,150,A+,Outro,Vôlei,Dota,50,65,70,Estrategista
+3,F,13.68,106,A+,Rock,Luta,Minecraft,50,65,55,Comum
+17,M,65.61,139,B-,Outro,Futebol,Counter-Strike,60,80,30,Comum
+24,M,67.1,149,AB-,Sertanejo,Vôlei,The Witcher,80,50,30,Tanque
+25,M,87.66,200,B-,Pop,Basquete,League of Legends,80,30,65,Tanque
+5,F,17.76,143,AB-,Sertanejo,Luta,Fortnite,50,65,55,Comum
+37,M,45.8,112,A+,Pop,Vôlei,World of Warcraft,80,50,30,Tanque
+24,F,76.97,131,AB+,Funk,Luta,Counter-Strike,50,80,55,Comum
+31,F,82.96,139,B+,Eletrônica,Vôlei,Fortnite,50,80,55,Comum
+26,F,47.4,136,AB+,Funk,Vôlei,World of Warcraft,50,80,55,Comum
+21,F,69.96,85,AB+,Eletrônica,Vôlei,Fortnite,50,80,55,Comum
+34,F,43.34,130,B-,Outro,Luta,League of Legends,50,65,70,Estrategista
+38,M,71.94,119,O-,Funk,Atletismo,Minecraft,60,95,30,Comum
+24,M,38.75,132,A+,Sertanejo,Futebol,Valorant,60,80,30,Comum
+28,M,59.77,204,O+,Outro,eSports,Counter-Strike,80,10,50,Tanque
+30,M,60.83,115,B+,Sertanejo,Nenhum,The Witcher,60,50,30,Comum
+34,F,59.37,183,AB-,Pop,eSports,FIFA,50,25,75,Comum
+23,F,91.77,175,O+,Sertanejo,eSports,Outro,30,25,75,Comum
+8,F,28.09,161,A+,Outro,Luta,Assassins Creed,50,45,55,Comum
+42,M,64.01,140,AB-,Rock,Nenhum,FIFA,60,50,30,Comum
+10,M,48.48,160,A+,Sertanejo,Basquete,The Witcher,60,50,50,Comum
+1,F,22.74,127,A+,Rock,Nenhum,FIFA,30,65,55,Corredor
+20,M,54.56,124,B-,Outro,eSports,World of Warcraft,60,30,50,Comum
+37,M,84.6,118,A+,Funk,Futebol,Dota,60,95,45,Comum
+18,M,99.95,148,A+,Funk,Futebol,Counter-Strike,60,95,30,Comum
+21,F,85.8,134,AB-,Eletrônica,Nenhum,League of Legends,30,80,70,Estrategista
+4,M,19.57,133,AB-,Outro,Nenhum,The Witcher,60,50,30,Comum
+43,F,67.52,183,B+,Eletrônica,Vôlei,The Witcher,70,60,55,Comum
+2,M,24.83,119,O+,Sertanejo,eSports,Valorant,60,30,50,Comum
+21,F,96.18,162,B-,Sertanejo,Basquete,Dota,30,45,90,Estrategista
+37,M,61.36,124,AB+,Outro,Luta,Minecraft,80,50,30,Tanque
+5,M,13.99,92,A-,Eletrônica,Vôlei,Valorant,80,65,30,Comum
+17,F,53.03,97,O-,Sertanejo,eSports,FIFA,30,45,75,Estrategista
+11,F,44.76,125,AB-,Rock,Basquete,Outro,30,65,75,Estrategista
+41,F,44.29,159,O-,Funk,Basquete,Counter-Strike,30,80,75,Estrategista
+31,M,72.39,159,A+,Pop,Futebol,Assassins Creed,60,80,30,Comum
+28,F,51.04,133,A+,Pop,Basquete,Valorant,30,65,75,Estrategista
+44,M,94.98,159,O-,Funk,Atletismo,Minecraft,60,95,30,Comum
+32,F,76.18,142,O-,Pop,Basquete,FIFA,30,65,75,Estrategista
+21,M,78.06,132,B+,Pop,Nenhum,The Witcher,60,50,30,Comum
+7,M,28.04,166,AB+,Rock,Atletismo,Rocket League,60,60,30,Comum
+10,M,46.36,176,A-,Funk,Vôlei,Valorant,80,45,30,Tanque
+28,F,71.86,170,B+,Outro,Luta,Outro,50,45,55,Comum
+36,M,97.56,131,O+,Eletrônica,Luta,Assassins Creed,80,65,30,Comum
+20,F,70.13,157,O-,Funk,Atletismo,Counter-Strike,30,100,55,Corredor
+13,M,39.46,76,A-,Sertanejo,Futebol,Rocket League,60,80,30,Comum
+19,M,42.21,146,B+,Sertanejo,Luta,Rocket League,80,50,30,Tanque
+11,M,41.52,151,O-,Funk,Basquete,Counter-Strike,60,65,50,Comum
+35,M,43.57,145,O-,Pop,Luta,League of Legends,80,50,45,Tanque
+34,F,82.46,133,B+,Rock,Vôlei,League of Legends,50,65,70,Estrategista
+44,M,81.72,179,AB-,Sertanejo,Basquete,Valorant,60,30,50,Comum
+4,M,13.26,137,O+,Eletrônica,Vôlei,Valorant,80,65,30,Comum
+13,F,41.97,136,B-,Rock,eSports,The Witcher,30,45,75,Estrategista
+37,M,61.35,133,B+,Eletrônica,Luta,Fortnite,80,65,30,Comum
+2,F,22.56,171,AB-,Pop,Futebol,Fortnite,30,75,55,Corredor
+1,F,18.37,131,AB+,Eletrônica,Basquete,Assassins Creed,30,80,75,Estrategista
+40,M,63.34,115,B-,Eletrônica,eSports,Fortnite,60,45,50,Comum
+25,M,76.27,137,A-,Sertanejo,Vôlei,Assassins Creed,80,50,30,Tanque
+37,F,44.71,191,O+,Pop,Atletismo,Dota,50,75,70,Estrategista
+36,F,71.76,131,O+,Eletrônica,Vôlei,Dota,50,80,70,Estrategista
+6,F,16.09,158,AB-,Rock,Atletismo,Counter-Strike,30,95,55,Corredor
+7,F,23.13,132,B-,Funk,Atletismo,Rocket League,30,100,55,Corredor
+4,F,15.93,132,AB-,Outro,Futebol,The Witcher,30,95,55,Corredor
+35,F,42.11,123,A-,Funk,Atletismo,Outro,30,100,55,Corredor
+41,F,76.21,104,A-,Sertanejo,Basquete,FIFA,30,65,75,Estrategista
+34,F,71.86,137,A-,Eletrônica,Luta,Outro,50,80,55,Comum
+29,M,74.11,162,B+,Rock,Nenhum,FIFA,60,30,30,Comum
+5,F,16.44,187,AB-,Rock,Vôlei,Minecraft,70,45,55,Tanque
+27,M,87.08,153,AB+,Outro,eSports,Dota,60,30,65,Comum
+33,M,84.74,115,B-,Eletrônica,Basquete,Valorant,60,65,50,Comum
+10,F,49.08,162,A-,Outro,Atletismo,FIFA,30,75,55,Corredor
+6,F,18.9,154,AB+,Eletrônica,Basquete,Rocket League,30,80,75,Estrategista
+34,M,66.24,182,O+,Pop,Basquete,Rocket League,80,30,50,Tanque
+8,M,19.87,203,A-,Funk,Futebol,World of Warcraft,80,75,30,Comum
+31,F,45.51,176,A-,Eletrônica,Nenhum,FIFA,30,60,55,Comum
+9,F,47.87,128,A+,Eletrônica,Atletismo,Fortnite,30,100,55,Corredor
+21,F,68.44,135,A-,Rock,Basquete,The Witcher,30,65,75,Estrategista
+8,F,16.13,175,A+,Outro,eSports,FIFA,30,25,75,Comum
+4,M,20.52,125,A+,Outro,Vôlei,The Witcher,80,50,30,Tanque
+22,M,74.02,136,O-,Sertanejo,Futebol,World of Warcraft,60,80,30,Comum
+28,M,101.85,159,AB-,Outro,Nenhum,Fortnite,60,50,30,Comum
+4,M,15.89,172,A-,Funk,Basquete,Valorant,60,45,50,Comum
+39,M,63.51,147,O-,Funk,Vôlei,Assassins Creed,80,65,30,Comum
+21,M,75.62,53,AB+,Funk,Vôlei,Assassins Creed,80,65,30,Comum
+8,M,15.14,150,AB-,Pop,Atletismo,Rocket League,60,80,30,Comum
+20,F,81.42,131,AB+,Funk,Basquete,Counter-Strike,30,80,75,Estrategista
+32,F,71.07,111,B+,Rock,Nenhum,Fortnite,30,65,55,Corredor
+1,F,15.69,141,O-,Eletrônica,Atletismo,Counter-Strike,30,100,55,Corredor
+6,F,23.11,174,O-,Rock,Vôlei,Minecraft,50,45,55,Comum
+28,M,62.8,106,A+,Pop,Basquete,Minecraft,60,50,50,Comum
+44,M,95.25,188,O+,Pop,eSports,Rocket League,80,10,50,Tanque
+31,F,88.61,169,AB+,Rock,Atletismo,Dota,30,75,70,Estrategista
+10,M,51.76,168,O+,Sertanejo,Atletismo,Rocket League,60,60,30,Comum
+20,M,76.42,116,AB+,Sertanejo,Nenhum,Valorant,60,50,30,Comum
+8,M,24.16,132,B+,Outro,Luta,Minecraft,80,50,30,Tanque
+22,M,87.9,129,A+,Outro,eSports,Minecraft,60,30,50,Comum
+38,F,85.73,140,O+,Pop,Nenhum,Fortnite,30,65,55,Corredor
+29,F,78.53,138,A-,Outro,eSports,League of Legends,30,45,90,Estrategista
+9,F,52.43,130,O+,Sertanejo,Futebol,Counter-Strike,30,95,55,Corredor
+44,F,79.91,135,O-,Outro,Vôlei,Assassins Creed,50,65,55,Comum
+1,M,28.0,134,O-,Outro,Vôlei,Outro,80,50,30,Tanque
+41,F,77.97,148,O+,Outro,Atletismo,Dota,30,95,70,Estrategista
+39,M,72.28,90,O+,Rock,Vôlei,Minecraft,80,50,30,Tanque
+26,F,61.34,155,O-,Pop,Vôlei,Fortnite,50,65,55,Comum
+11,M,47.86,191,O-,Funk,Basquete,Dota,80,45,65,Tanque
+35,F,69.58,172,A+,Sertanejo,Luta,World of Warcraft,50,45,55,Comum
+24,M,58.88,112,O-,Outro,Basquete,Assassins Creed,60,50,50,Comum
+33,M,70.9,171,AB-,Outro,Nenhum,Rocket League,60,30,30,Comum
+20,M,87.11,209,AB-,Sertanejo,Basquete,Dota,80,30,65,Tanque
+27,M,72.59,133,B-,Outro,Vôlei,Fortnite,80,50,30,Tanque
+15,M,63.77,162,AB+,Rock,Vôlei,League of Legends,80,30,45,Tanque
+33,M,57.2,209,B+,Outro,Nenhum,FIFA,80,30,30,Tanque
+7,M,17.71,171,A+,Rock,Vôlei,World of Warcraft,80,30,30,Tanque
+34,M,89.99,187,B+,Rock,Basquete,Valorant,80,30,50,Tanque
+42,M,43.35,107,B-,Sertanejo,eSports,Valorant,60,30,50,Comum
+5,F,24.81,147,A-,Sertanejo,eSports,World of Warcraft,30,45,75,Estrategista
+30,F,35.3,152,O-,Pop,Basquete,Assassins Creed,30,65,75,Estrategista
+28,F,65.26,157,A-,Sertanejo,Luta,Minecraft,50,65,55,Comum
+18,F,64.87,164,AB+,Pop,Atletismo,Assassins Creed,30,75,55,Corredor
+36,F,63.94,145,A+,Rock,eSports,Assassins Creed,30,45,75,Estrategista
+3,M,17.45,101,B-,Outro,eSports,Counter-Strike,60,30,50,Comum
+21,F,57.68,172,A+,Funk,Basquete,World of Warcraft,30,60,75,Estrategista
+16,F,56.3,151,A+,Sertanejo,Vôlei,Valorant,50,65,55,Comum
+37,M,97.27,105,O-,Rock,Basquete,Fortnite,60,50,50,Comum
+42,F,64.99,163,B+,Funk,Futebol,FIFA,30,90,55,Corredor
+5,F,20.01,157,AB+,Outro,Nenhum,Valorant,30,65,55,Corredor
+14,M,42.0,156,O+,Rock,Basquete,FIFA,60,50,50,Comum
+31,F,94.19,131,AB+,Outro,Basquete,Minecraft,30,65,75,Estrategista
+24,F,92.71,189,O+,Funk,Nenhum,Counter-Strike,50,60,55,Comum
+35,M,73.47,157,O-,Sertanejo,Futebol,Rocket League,60,80,30,Comum
+36,M,53.51,116,O+,Rock,Luta,Outro,80,50,30,Tanque
+10,M,38.98,94,A+,Sertanejo,Basquete,World of Warcraft,60,50,50,Comum
+27,M,70.71,117,A+,Pop,Futebol,Minecraft,60,80,30,Comum
+27,F,73.59,69,B-,Rock,eSports,Rocket League,30,45,75,Estrategista
+23,F,55.33,132,O-,Funk,Futebol,Fortnite,30,100,55,Corredor
+13,F,51.0,144,AB-,Rock,eSports,Outro,30,45,75,Estrategista
+16,M,72.44,104,A+,Eletrônica,Futebol,Counter-Strike,60,95,30,Comum
+35,F,69.85,124,O-,Eletrônica,Luta,FIFA,50,80,55,Comum
+27,M,70.03,187,AB+,Pop,Futebol,World of Warcraft,80,60,30,Comum
+39,F,85.4,143,B+,Rock,Atletismo,The Witcher,30,95,55,Corredor
+17,M,47.87,186,B-,Rock,Nenhum,The Witcher,80,30,30,Tanque
+41,F,85.16,134,B+,Outro,Vôlei,Minecraft,50,65,55,Comum
+1,F,20.66,135,A+,Funk,Atletismo,Minecraft,30,100,55,Corredor
+11,M,49.61,74,O+,Outro,Basquete,Valorant,60,50,50,Comum
+12,M,40.82,162,O-,Funk,Luta,Fortnite,80,45,30,Tanque
+14,M,43.44,173,B-,Funk,eSports,Minecraft,60,25,50,Comum
+8,F,17.65,130,AB-,Rock,Nenhum,Fortnite,30,65,55,Corredor
+31,F,61.48,131,O+,Rock,eSports,The Witcher,30,45,75,Estrategista
+7,M,13.17,164,O-,Eletrônica,Luta,Minecraft,80,45,30,Tanque
+31,M,88.96,118,B+,Sertanejo,Luta,Minecraft,80,50,30,Tanque
+16,M,72.26,117,B-,Funk,Basquete,The Witcher,60,65,50,Comum
+42,M,80.43,150,A-,Sertanejo,Futebol,Fortnite,60,80,30,Comum
+39,F,70.09,122,A-,Outro,Basquete,FIFA,30,65,75,Estrategista
+44,M,54.27,158,AB-,Outro,Futebol,Rocket League,60,80,30,Comum
+19,M,83.61,112,AB+,Sertanejo,Futebol,League of Legends,60,80,45,Comum
+8,F,18.94,185,O+,Pop,Atletismo,League of Legends,50,75,70,Estrategista
+29,F,62.11,160,B-,Rock,Futebol,League of Legends,30,95,70,Estrategista
+2,M,12.6,142,AB-,Outro,Basquete,Fortnite,60,50,50,Comum
+42,F,84.18,114,B-,Rock,Futebol,Outro,30,95,55,Corredor
+3,M,16.39,108,AB+,Eletrônica,eSports,Assassins Creed,60,45,50,Comum
+29,F,92.66,113,A-,Rock,eSports,Assassins Creed,30,45,75,Estrategista
+15,F,61.43,97,B-,Pop,Basquete,Valorant,30,65,75,Estrategista
+38,M,79.98,180,AB-,Outro,Luta,Valorant,80,30,30,Tanque
+28,F,70.05,150,O-,Rock,Atletismo,FIFA,30,95,55,Corredor
+37,M,93.2,172,O-,Funk,Nenhum,World of Warcraft,60,45,30,Comum
+32,M,73.22,192,AB-,Funk,Futebol,Assassins Creed,80,75,30,Comum
+30,F,41.84,179,AB-,Eletrônica,Luta,Dota,50,60,70,Estrategista
+30,F,86.33,153,AB+,Outro,Luta,Valorant,50,65,55,Comum
+34,M,68.78,128,AB+,Funk,Basquete,The Witcher,60,65,50,Comum
+13,F,41.44,162,B-,Pop,Luta,League of Legends,50,45,70,Estrategista
+33,F,88.34,146,A-,Rock,Luta,The Witcher,50,65,55,Comum
+42,F,65.03,132,AB-,Sertanejo,Futebol,Dota,30,95,70,Estrategista
+17,M,79.0,125,AB-,Rock,eSports,FIFA,60,30,50,Comum
+3,F,24.89,172,B+,Pop,Vôlei,League of Legends,50,45,70,Estrategista
+9,F,46.01,184,A-,Rock,Futebol,Fortnite,50,75,55,Comum
+11,M,46.63,132,AB-,Rock,Vôlei,Rocket League,80,50,30,Tanque
+27,F,58.19,127,B-,Funk,Nenhum,Minecraft,30,80,55,Corredor
+28,M,61.23,161,B-,Pop,Luta,Outro,80,30,30,Tanque
+2,M,13.12,121,O+,Funk,Vôlei,The Witcher,80,65,30,Comum
+1,M,22.5,158,B-,Eletrônica,Luta,Rocket League,80,65,30,Comum
+6,M,17.6,192,O+,Outro,Futebol,Outro,80,60,30,Comum
+25,F,73.57,127,A-,Outro,Basquete,Rocket League,30,65,75,Estrategista
+35,M,84.63,141,B+,Eletrônica,Vôlei,Outro,80,65,30,Comum
+16,M,50.06,200,B+,Pop,Atletismo,Dota,80,60,45,Comum
+4,M,22.03,129,O+,Pop,Basquete,The Witcher,60,50,50,Comum
+38,F,68.63,144,O-,Eletrônica,Nenhum,The Witcher,30,80,55,Corredor
+44,M,46.77,112,AB+,Outro,Vôlei,Assassins Creed,80,50,30,Tanque
+20,M,89.67,119,O+,Outro,eSports,The Witcher,60,30,50,Comum
+25,M,69.72,99,AB+,Sertanejo,Luta,Valorant,80,50,30,Tanque
+7,M,23.18,228,A+,Outro,Luta,Valorant,100,30,30,Tanque
+21,M,73.54,157,A+,Outro,Luta,Assassins Creed,80,50,30,Tanque
+7,M,23.58,139,A+,Eletrônica,Luta,Rocket League,80,65,30,Comum
+29,M,70.68,108,O-,Rock,eSports,Dota,60,30,65,Comum
+7,M,24.4,85,A+,Eletrônica,Nenhum,Minecraft,60,65,30,Comum
+3,M,29.04,147,B+,Outro,eSports,FIFA,60,30,50,Comum
+29,M,95.02,136,O+,Eletrônica,Luta,Rocket League,80,65,30,Comum
+29,M,64.67,155,B-,Funk,Nenhum,Minecraft,60,65,30,Comum
+39,M,58.73,161,O-,Pop,Futebol,Minecraft,60,60,30,Comum
+38,F,74.65,170,O+,Funk,Vôlei,World of Warcraft,50,60,55,Comum
+6,F,23.26,139,O+,Funk,Basquete,Assassins Creed,30,80,75,Estrategista
+10,M,40.18,159,B+,Funk,Vôlei,Outro,80,65,30,Comum
+37,F,80.97,128,B+,Rock,Vôlei,Valorant,50,65,55,Comum
+14,F,56.57,114,AB+,Pop,eSports,Dota,30,45,90,Estrategista
+22,F,82.51,130,B+,Eletrônica,Futebol,Outro,30,100,55,Corredor
+32,M,70.42,163,O+,Rock,Futebol,FIFA,60,60,30,Comum
+18,F,99.68,158,AB-,Funk,Nenhum,Assassins Creed,30,80,55,Corredor
+36,F,68.69,140,A+,Rock,eSports,Outro,30,45,75,Estrategista
+9,M,47.67,150,AB-,Rock,Luta,Assassins Creed,80,50,30,Tanque
+26,F,24.9,188,AB-,Outro,Luta,Dota,70,45,70,Tanque
+22,F,69.29,86,AB+,Funk,Vôlei,League of Legends,50,80,70,Estrategista
+38,F,82.48,102,A+,Funk,Futebol,World of Warcraft,30,100,55,Corredor
+23,F,70.1,140,AB+,Rock,Basquete,Dota,30,65,90,Estrategista
+17,M,86.86,161,AB+,Rock,Vôlei,Dota,80,30,45,Tanque
+26,F,104.42,134,AB-,Pop,Futebol,Outro,30,95,55,Corredor
+38,M,67.4,167,A-,Pop,Nenhum,Minecraft,60,30,30,Comum
+2,F,21.68,50,AB+,Funk,Vôlei,Minecraft,50,80,55,Comum
+6,F,24.43,70,A-,Funk,Nenhum,League of Legends,30,80,70,Estrategista
+7,F,18.64,123,B-,Rock,Futebol,FIFA,30,95,55,Corredor
+13,F,28.8,220,O+,Outro,Vôlei,Valorant,70,45,55,Tanque
+27,F,66.68,140,O-,Sertanejo,Basquete,The Witcher,30,65,75,Estrategista
+11,M,34.2,73,A+,Pop,Futebol,Outro,60,80,30,Comum
+15,M,67.66,129,O-,Sertanejo,Nenhum,The Witcher,60,50,30,Comum
+9,M,42.09,159,O+,Rock,Nenhum,Dota,60,50,45,Comum
+8,F,20.87,169,B+,Eletrônica,Atletismo,The Witcher,30,90,55,Corredor
+6,M,22.83,154,O-,Eletrônica,Luta,World of Warcraft,80,65,30,Comum
+43,F,52.66,133,B-,Eletrônica,Futebol,World of Warcraft,30,100,55,Corredor
+4,M,22.49,160,B+,Eletrônica,Vôlei,FIFA,80,65,30,Comum
+11,M,56.4,175,O+,Rock,Luta,Minecraft,80,30,30,Tanque
+28,M,85.72,123,O+,Pop,Vôlei,World of Warcraft,80,50,30,Tanque
+26,F,69.49,136,A+,Pop,Nenhum,Dota,30,65,70,Estrategista
+4,M,23.44,136,B+,Sertanejo,Futebol,World of Warcraft,60,80,30,Comum
+15,F,39.26,89,AB+,Funk,Vôlei,Minecraft,50,80,55,Comum
+19,M,51.15,102,B-,Eletrônica,Futebol,FIFA,60,95,30,Comum
+6,F,24.54,70,O-,Pop,Futebol,Assassins Creed,30,95,55,Corredor
+5,F,33.4,143,AB-,Rock,Luta,Outro,50,65,55,Comum
+18,F,62.01,131,A-,Funk,Futebol,Dota,30,100,70,Estrategista
+6,F,15.01,130,B+,Sertanejo,Nenhum,League of Legends,30,65,70,Estrategista
+31,F,90.46,139,B-,Sertanejo,Basquete,FIFA,30,65,75,Estrategista
+25,F,75.61,156,A-,Pop,Atletismo,Outro,30,95,55,Corredor
+4,F,22.38,120,O-,Rock,eSports,Rocket League,30,45,75,Estrategista
+6,F,9.21,175,A+,Rock,Nenhum,Dota,30,45,70,Estrategista
+41,F,73.2,92,A+,Outro,Basquete,Rocket League,30,65,75,Estrategista
+37,F,51.95,140,B-,Pop,Futebol,Rocket League,30,95,55,Corredor
+25,M,87.67,137,O+,Pop,Atletismo,Valorant,60,80,30,Comum
+34,F,71.63,165,A-,Pop,Vôlei,Assassins Creed,50,45,55,Comum
+19,M,70.66,125,O+,Pop,Vôlei,Counter-Strike,80,50,30,Tanque
+34,M,75.07,172,AB-,Rock,Basquete,Assassins Creed,60,30,50,Comum
+15,F,91.7,133,B-,Rock,eSports,Dota,30,45,90,Estrategista
+8,M,21.7,137,B-,Pop,Luta,Dota,80,50,45,Tanque
+44,F,94.95,136,O+,Rock,eSports,Dota,30,45,90,Estrategista
+34,F,57.23,161,A-,Sertanejo,Atletismo,Rocket League,30,75,55,Corredor
+18,M,76.33,166,AB+,Outro,eSports,Outro,60,10,50,Comum
+30,F,100.14,122,O+,Rock,Atletismo,World of Warcraft,30,95,55,Corredor
+13,M,28.86,98,B+,Rock,Luta,League of Legends,80,50,45,Tanque
+33,M,73.68,111,AB-,Outro,Nenhum,Valorant,60,50,30,Comum
+35,M,83.16,145,O+,Funk,Vôlei,Rocket League,80,65,30,Comum
+48,M,67.93,140,AB-,Rock,eSports,Dota,60,30,65,Comum
+52,F,47.49,144,B+,Pop,Futebol,Assassins Creed,30,95,55,Corredor
+57,F,54.16,118,B+,Outro,eSports,Counter-Strike,30,45,75,Estrategista
+54,F,78.71,164,B-,Pop,Vôlei,Outro,50,45,55,Comum
+59,M,83.37,135,B+,Pop,Nenhum,Dota,60,50,45,Comum
+47,F,81.77,91,B-,Eletrônica,Futebol,Outro,30,100,55,Corredor
+56,M,87.2,145,B-,Rock,Vôlei,Fortnite,80,50,30,Tanque
+49,M,71.08,156,A-,Outro,Atletismo,Outro,60,80,30,Comum
+54,M,73.12,144,A+,Funk,Atletismo,Minecraft,60,95,30,Comum
+59,M,47.22,144,O-,Pop,Nenhum,Minecraft,60,50,30,Comum
+45,M,74.76,147,A-,Pop,Futebol,League of Legends,60,80,45,Comum
+57,M,79.19,108,AB+,Outro,Vôlei,Rocket League,80,50,30,Tanque
+51,F,61.25,186,O-,Eletrônica,Nenhum,FIFA,50,60,55,Comum
+54,F,79.66,130,B+,Sertanejo,Futebol,League of Legends,30,95,70,Estrategista
+47,F,42.76,184,A-,Eletrônica,Futebol,World of Warcraft,50,90,55,Comum
+49,M,81.27,123,A-,Pop,eSports,Outro,60,30,50,Comum
+52,M,74.5,169,A-,Outro,Vôlei,Dota,80,30,45,Tanque
+48,F,101.66,147,O-,Pop,Futebol,League of Legends,30,95,70,Estrategista
+45,F,91.2,143,AB+,Rock,Futebol,Assassins Creed,30,95,55,Corredor
+57,F,92.6,112,AB+,Sertanejo,Vôlei,Minecraft,50,65,55,Comum
+50,M,82.26,176,B+,Pop,Nenhum,Valorant,60,30,30,Comum
+49,F,79.7,153,O-,Funk,Basquete,Minecraft,30,80,75,Estrategista
+58,F,52.28,137,O+,Outro,Basquete,The Witcher,30,65,75,Estrategista
+45,M,64.97,176,AB-,Pop,Nenhum,Fortnite,60,30,30,Comum
+58,M,97.4,143,A+,Outro,Luta,FIFA,80,50,30,Tanque
+47,F,48.16,206,AB-,Eletrônica,Basquete,Counter-Strike,50,60,75,Estrategista
+48,F,63.25,171,B+,Outro,eSports,Dota,30,25,90,Comum
+46,M,48.71,130,AB-,Eletrônica,Vôlei,Outro,80,65,30,Comum
+52,M,91.76,181,AB-,Outro,Nenhum,League of Legends,80,30,45,Tanque
+55,M,61.51,142,A+,Rock,Futebol,Minecraft,60,80,30,Comum
+46,M,93.17,200,A+,Pop,Nenhum,The Witcher,80,30,30,Tanque
+59,F,63.79,142,AB+,Pop,eSports,Valorant,30,45,75,Estrategista
+58,F,62.44,138,AB+,Rock,Vôlei,Rocket League,50,65,55,Comum
+48,F,89.18,143,O-,Outro,Atletismo,Dota,30,95,70,Estrategista
+55,F,84.08,152,AB-,Outro,Nenhum,Dota,30,65,70,Estrategista
+49,F,29.26,186,O+,Pop,Vôlei,Minecraft,70,45,55,Tanque
+55,M,76.77,149,O-,Sertanejo,Basquete,Rocket League,60,50,50,Comum
+46,M,79.0,137,A-,Rock,Luta,Dota,80,50,45,Tanque
+52,F,73.15,125,B+,Rock,Futebol,Rocket League,30,95,55,Corredor
+49,M,60.14,164,A+,Outro,eSports,Fortnite,60,10,50,Comum
+45,F,70.43,123,A+,Sertanejo,Futebol,Counter-Strike,30,95,55,Corredor
+55,F,64.03,105,O-,Funk,eSports,Outro,30,60,75,Estrategista
+47,F,73.17,112,A+,Pop,Basquete,Fortnite,30,65,75,Estrategista
+57,F,66.96,126,O+,Pop,eSports,Assassins Creed,30,45,75,Estrategista
+55,M,60.67,136,AB-,Funk,Luta,Counter-Strike,80,65,30,Comum
+52,F,72.46,172,O-,Outro,Atletismo,Rocket League,30,75,55,Corredor
+49,F,82.04,123,O-,Eletrônica,Luta,Valorant,50,80,55,Comum
+45,F,74.34,176,A-,Rock,Luta,World of Warcraft,50,45,55,Comum
+47,M,61.7,91,AB+,Rock,Basquete,FIFA,60,50,50,Comum
+51,F,75.04,219,O-,Outro,Luta,Assassins Creed,70,45,55,Tanque
+54,M,86.05,92,AB+,Eletrônica,Futebol,Valorant,60,95,30,Comum
+47,M,93.93,146,A-,Sertanejo,Luta,FIFA,80,50,30,Tanque
+49,F,88.11,133,O+,Eletrônica,Basquete,League of Legends,30,80,90,Estrategista
+57,M,78.06,116,O+,Sertanejo,Luta,Minecraft,80,50,30,Tanque
+54,M,54.86,160,B+,Rock,Luta,Outro,80,50,30,Tanque
+54,F,49.52,172,B+,Pop,Futebol,Fortnite,30,75,55,Corredor
+57,F,66.96,135,A-,Outro,Futebol,Dota,30,95,70,Estrategista
+50,M,48.86,176,AB+,Sertanejo,Basquete,Counter-Strike,60,30,50,Comum
+49,F,58.23,142,O-,Outro,Vôlei,League of Legends,50,65,70,Estrategista
+55,M,67.45,108,B+,Rock,Futebol,The Witcher,60,80,30,Comum
+49,F,62.74,138,A+,Rock,Nenhum,Outro,30,65,55,Corredor
+54,F,65.08,124,A+,Sertanejo,Basquete,FIFA,30,65,75,Estrategista
+55,F,50.08,154,AB+,Funk,eSports,Dota,30,60,90,Estrategista
+57,M,73.47,128,O+,Sertanejo,Luta,World of Warcraft,80,50,30,Tanque
+53,M,84.95,138,A-,Rock,Futebol,League of Legends,60,80,45,Comum
+46,M,61.78,107,A-,Pop,Atletismo,Minecraft,60,80,30,Comum
+50,F,80.89,172,O-,Eletrônica,Basquete,Assassins Creed,30,60,75,Estrategista
+52,M,109.94,129,O-,Funk,Atletismo,Fortnite,60,95,30,Comum
+45,F,68.62,108,B+,Rock,Futebol,Dota,30,95,70,Estrategista
+55,F,79.77,219,AB+,Pop,Nenhum,Rocket League,50,45,55,Comum
+46,M,72.95,98,AB+,Funk,Atletismo,The Witcher,60,95,30,Comum
+55,F,84.54,155,AB-,Pop,Nenhum,Rocket League,30,65,55,Corredor
+48,M,44.22,75,B+,Outro,Vôlei,League of Legends,80,50,45,Tanque
+54,F,54.15,149,O-,Rock,Futebol,Dota,30,95,70,Estrategista
+47,M,72.15,146,AB+,Pop,Luta,The Witcher,80,50,30,Tanque
+53,F,83.3,132,O-,Outro,Basquete,Dota,30,65,90,Estrategista
+47,F,71.96,99,AB+,Rock,Atletismo,Fortnite,30,95,55,Corredor
+49,M,45.03,114,AB-,Pop,Vôlei,Valorant,80,50,30,Tanque
+59,M,57.65,116,B+,Pop,Atletismo,Assassins Creed,60,80,30,Comum
+57,F,58.08,105,AB+,Funk,Nenhum,FIFA,30,80,55,Corredor
+53,M,75.83,112,O-,Eletrônica,Futebol,Assassins Creed,60,95,30,Comum
+47,F,58.57,183,O+,Outro,Atletismo,Outro,50,75,55,Comum
+54,F,59.79,152,AB-,Funk,Nenhum,Outro,30,80,55,Corredor
+53,F,86.27,180,O-,Sertanejo,eSports,FIFA,30,25,75,Comum
+52,F,90.03,110,AB-,Sertanejo,Basquete,Valorant,30,65,75,Estrategista
+55,F,63.8,127,O+,Rock,Atletismo,Minecraft,30,95,55,Corredor
+56,M,76.37,88,B+,Pop,Nenhum,League of Legends,60,50,45,Comum
+57,M,41.78,104,AB-,Funk,Atletismo,Fortnite,60,95,30,Comum
+53,M,72.97,131,AB-,Pop,Luta,Valorant,80,50,30,Tanque
+47,F,87.85,127,AB-,Outro,Nenhum,League of Legends,30,65,70,Estrategista
+48,M,77.9,193,O-,Eletrônica,Vôlei,Assassins Creed,100,45,30,Tanque
+57,M,71.52,143,B-,Outro,Atletismo,Fortnite,60,80,30,Comum
+48,M,64.17,132,A-,Pop,Luta,Minecraft,80,50,30,Tanque
+58,F,60.3,154,A-,Rock,Atletismo,Minecraft,30,95,55,Corredor
+51,M,67.31,141,AB+,Funk,Atletismo,Rocket League,60,95,30,Comum
+45,M,46.73,107,O-,Sertanejo,Nenhum,Fortnite,60,50,30,Comum
+55,M,94.16,121,A+,Eletrônica,Vôlei,Dota,80,65,45,Comum
+48,F,78.46,182,O-,Pop,eSports,Assassins Creed,50,25,75,Comum
+51,M,68.46,179,A+,Outro,Atletismo,Minecraft,60,60,30,Comum
+56,F,60.7,148,O-,Eletrônica,eSports,Valorant,30,60,75,Estrategista
+48,F,68.94,171,O+,Eletrônica,Nenhum,Counter-Strike,30,60,55,Comum
+54,M,81.97,189,O-,Eletrônica,Nenhum,Valorant,80,45,30,Tanque
+51,F,85.17,127,A-,Outro,Vôlei,Outro,50,65,55,Comum
+48,M,56.44,146,O+,Eletrônica,Atletismo,League of Legends,60,95,45,Comum
+47,F,55.4,147,A+,Funk,Nenhum,Counter-Strike,30,80,55,Corredor
+47,M,101.17,115,B+,Eletrônica,Vôlei,Rocket League,80,65,30,Comum
+47,M,87.05,153,B+,Eletrônica,Atletismo,Valorant,60,95,30,Comum
+51,F,80.63,106,AB-,Funk,Vôlei,Counter-Strike,50,80,55,Comum
+49,M,67.92,143,AB-,Rock,Futebol,Counter-Strike,60,80,30,Comum
+56,F,83.86,132,B-,Sertanejo,Atletismo,Fortnite,30,95,55,Corredor
+51,M,50.9,153,A+,Sertanejo,Luta,Minecraft,80,50,30,Tanque
+45,F,92.98,99,A-,Eletrônica,Atletismo,The Witcher,30,100,55,Corredor
+49,F,69.46,124,B-,Eletrônica,Atletismo,Dota,30,100,70,Estrategista
+58,F,81.86,196,O-,Sertanejo,Luta,League of Legends,70,45,70,Tanque
+54,F,79.69,136,O+,Pop,Atletismo,Outro,30,95,55,Corredor
+47,F,68.03,142,AB+,Pop,Futebol,Dota,30,95,70,Estrategista
+46,M,67.37,120,B+,Eletrônica,Luta,Minecraft,80,65,30,Comum
+57,M,88.32,141,A-,Sertanejo,Luta,Assassins Creed,80,50,30,Tanque
+60,F,85.4,151,AB-,Pop,Vôlei,Assassins Creed,50,65,55,Comum
+51,M,43.42,126,O-,Pop,Vôlei,Assassins Creed,80,50,30,Tanque
+46,M,44.61,133,O+,Sertanejo,Luta,Assassins Creed,80,50,30,Tanque
+52,F,55.81,135,A-,Pop,Luta,Valorant,50,65,55,Comum
+57,F,56.6,149,A+,Outro,Atletismo,Assassins Creed,30,95,55,Corredor
+50,F,53.22,174,A-,Sertanejo,Futebol,Assassins Creed,30,75,55,Corredor
+51,F,74.08,120,AB+,Funk,Vôlei,World of Warcraft,50,80,55,Comum
+46,M,63.04,164,O+,Eletrônica,Basquete,Outro,60,45,50,Comum
+55,M,88.09,164,A+,Sertanejo,Atletismo,The Witcher,60,60,30,Comum
+51,F,91.79,148,A+,Rock,eSports,League of Legends,30,45,90,Estrategista
+58,M,69.57,172,B-,Outro,Atletismo,Rocket League,60,60,30,Comum
+51,M,95.25,143,A+,Sertanejo,eSports,League of Legends,60,30,65,Comum
+51,F,70.36,143,B-,Funk,Futebol,Rocket League,30,100,55,Corredor
+51,M,63.48,135,AB+,Outro,Nenhum,Valorant,60,50,30,Comum
+56,M,70.97,132,A-,Rock,Nenhum,Minecraft,60,50,30,Comum
+47,F,84.17,134,AB-,Pop,Vôlei,Dota,50,65,70,Estrategista
+50,M,45.78,84,AB+,Rock,Basquete,League of Legends,60,50,65,Estrategista
+59,M,66.87,158,O-,Rock,Nenhum,Outro,60,50,30,Comum
+47,M,74.46,130,A+,Outro,Nenhum,Valorant,60,50,30,Comum
+47,F,75.45,96,O+,Pop,Nenhum,World of Warcraft,30,65,55,Corredor
+48,F,64.47,169,A-,Rock,Vôlei,Fortnite,50,45,55,Comum
+47,M,77.33,111,AB-,Pop,Vôlei,Rocket League,80,50,30,Tanque
+57,F,74.38,166,A-,Rock,Futebol,League of Legends,30,75,70,Estrategista
+58,M,61.12,118,B+,Pop,Atletismo,FIFA,60,80,30,Comum
+54,F,102.72,169,AB-,Sertanejo,Nenhum,Counter-Strike,30,45,55,Comum
+48,M,76.59,197,O+,Funk,Futebol,Minecraft,80,75,30,Comum
+53,F,65.03,92,AB+,Funk,Nenhum,Counter-Strike,30,80,55,Corredor
+50,M,61.42,132,B-,Rock,Vôlei,Minecraft,80,50,30,Tanque
+49,M,85.44,169,AB+,Funk,Basquete,Outro,60,45,50,Comum
+50,F,71.53,148,O+,Funk,Atletismo,FIFA,30,100,55,Corredor
+56,M,108.22,148,O-,Rock,Futebol,Outro,60,80,30,Comum
+46,M,63.46,167,AB+,Pop,eSports,Outro,60,10,50,Comum
+56,F,51.36,116,A-,Eletrônica,Luta,Fortnite,50,80,55,Comum
+60,F,69.58,102,AB+,Sertanejo,Basquete,Outro,30,65,75,Estrategista
+59,M,72.63,119,AB+,Funk,Nenhum,Valorant,60,65,30,Comum
+57,M,38.22,180,AB-,Rock,Nenhum,Counter-Strike,60,30,30,Comum
+60,M,65.36,117,AB+,Pop,Nenhum,Dota,60,50,45,Comum
+57,F,64.47,94,B+,Outro,Luta,Valorant,50,65,55,Comum
+50,F,64.47,175,A-,Rock,Nenhum,Minecraft,30,45,55,Comum
+53,M,60.55,125,B-,Eletrônica,Vôlei,Counter-Strike,80,65,30,Comum
+47,M,49.85,127,A+,Funk,Basquete,Fortnite,60,65,50,Comum
+54,M,81.37,98,A-,Outro,Nenhum,Counter-Strike,60,50,30,Comum
+58,M,61.24,156,AB-,Eletrônica,eSports,League of Legends,60,45,65,Estrategista
+59,F,54.64,157,O+,Pop,Basquete,League of Legends,30,65,90,Estrategista
+57,M,58.6,123,B+,Sertanejo,eSports,FIFA,60,30,50,Comum
+57,M,62.92,104,B-,Funk,Nenhum,Assassins Creed,60,65,30,Comum
+54,F,71.63,83,A+,Pop,eSports,Dota,30,45,90,Estrategista
+50,F,80.03,157,A-,Rock,Atletismo,Counter-Strike,30,95,55,Corredor
+51,F,55.7,218,O-,Rock,Vôlei,Outro,70,45,55,Tanque
+49,F,62.81,152,A+,Sertanejo,eSports,The Witcher,30,45,75,Estrategista
+45,M,49.82,158,AB-,Sertanejo,Futebol,Assassins Creed,60,80,30,Comum
+53,M,19.12,144,O-,Funk,Nenhum,Fortnite,60,65,30,Comum
+55,F,72.34,150,B+,Pop,Basquete,Outro,30,65,75,Estrategista
+59,F,92.8,133,AB+,Pop,Futebol,Minecraft,30,95,55,Corredor
+50,M,77.83,149,A+,Outro,Vôlei,Fortnite,80,50,30,Tanque
+60,M,62.39,116,A-,Sertanejo,Vôlei,League of Legends,80,50,45,Tanque
+60,M,71.45,103,B+,Outro,Luta,World of Warcraft,80,50,30,Tanque
+50,F,52.38,143,B+,Eletrônica,Futebol,Fortnite,30,100,55,Corredor
+50,F,68.17,143,O+,Outro,Futebol,Assassins Creed,30,95,55,Corredor
+56,F,63.58,105,O+,Sertanejo,Atletismo,FIFA,30,95,55,Corredor
+46,M,57.21,123,O+,Sertanejo,Vôlei,League of Legends,80,50,45,Tanque
+60,M,76.08,129,O-,Outro,Vôlei,The Witcher,80,50,30,Tanque
+45,M,109.0,161,AB-,Outro,Vôlei,World of Warcraft,80,30,30,Tanque
+45,F,94.98,145,AB-,Rock,eSports,League of Legends,30,45,90,Estrategista
+45,F,68.92,135,B+,Sertanejo,Vôlei,Rocket League,50,65,55,Comum
+45,M,83.26,92,O-,Eletrônica,Atletismo,League of Legends,60,95,45,Comum
+59,M,82.94,148,AB+,Rock,Luta,Valorant,80,50,30,Tanque
+55,F,60.29,156,O-,Rock,Vôlei,FIFA,50,65,55,Comum
+57,F,79.66,206,O+,Eletrônica,Basquete,League of Legends,50,60,90,Estrategista
+58,F,48.39,153,AB-,Eletrônica,Luta,Valorant,50,80,55,Comum
+45,M,57.92,168,AB+,Rock,Atletismo,FIFA,60,60,30,Comum
+58,M,73.58,168,AB-,Rock,Luta,Dota,80,30,45,Tanque
+55,F,63.78,86,O+,Rock,Luta,World of Warcraft,50,65,55,Comum
+52,M,96.35,136,A-,Eletrônica,Atletismo,Fortnite,60,95,30,Comum
+51,F,79.72,135,B+,Pop,Basquete,Minecraft,30,65,75,Estrategista
+48,M,64.27,126,B-,Funk,eSports,Rocket League,60,45,50,Comum
+50,M,62.94,166,B+,Funk,eSports,Minecraft,60,25,50,Comum
+49,M,72.8,189,A-,Outro,Vôlei,FIFA,100,30,30,Tanque
+48,F,54.17,112,AB-,Outro,eSports,Minecraft,30,45,75,Estrategista
+60,M,78.93,135,B+,Sertanejo,eSports,Dota,60,30,65,Comum
+49,F,49.37,153,B+,Eletrônica,Nenhum,Fortnite,30,80,55,Corredor
+50,M,79.35,117,O-,Rock,Basquete,Rocket League,60,50,50,Comum
+57,F,67.53,77,O-,Pop,Vôlei,Minecraft,50,65,55,Comum
+57,F,76.22,134,O+,Sertanejo,Atletismo,Minecraft,30,95,55,Corredor
+55,F,54.81,107,O-,Outro,Futebol,League of Legends,30,95,70,Estrategista
+46,F,73.67,82,B-,Sertanejo,Atletismo,League of Legends,30,95,70,Estrategista
+48,F,106.19,167,A-,Rock,Luta,Minecraft,50,45,55,Comum
+57,M,63.14,189,B+,Eletrônica,Vôlei,Dota,100,45,45,Tanque
+51,M,74.76,156,AB+,Funk,Atletismo,Assassins Creed,60,95,30,Comum
+52,F,92.58,152,A+,Pop,Nenhum,Outro,30,65,55,Corredor
+49,F,81.43,153,B-,Rock,Basquete,Assassins Creed,30,65,75,Estrategista
+45,F,76.48,138,AB-,Pop,Nenhum,Counter-Strike,30,65,55,Corredor
+58,M,54.79,153,B-,Eletrônica,eSports,Valorant,60,45,50,Comum
+45,F,50.84,136,O+,Eletrônica,Futebol,Rocket League,30,100,55,Corredor
+52,M,70.8,117,A-,Sertanejo,Basquete,Valorant,60,50,50,Comum
+60,F,63.05,178,AB+,Rock,eSports,World of Warcraft,30,25,75,Comum
+55,M,69.71,162,AB+,Sertanejo,Basquete,League of Legends,60,30,65,Comum
+57,F,73.08,220,AB+,Sertanejo,Luta,Counter-Strike,70,45,55,Tanque
+48,M,59.85,115,A-,Pop,Vôlei,The Witcher,80,50,30,Tanque
+58,M,77.41,97,A-,Outro,Vôlei,The Witcher,80,50,30,Tanque
+48,F,97.88,180,A-,Rock,Atletismo,The Witcher,30,75,55,Corredor
+45,F,54.86,137,O-,Rock,eSports,The Witcher,30,45,75,Estrategista
+45,F,62.96,181,AB-,Eletrônica,Luta,Minecraft,70,60,55,Comum
+54,F,69.26,200,O-,Funk,Nenhum,Dota,50,60,70,Estrategista
+49,M,87.11,99,O-,Rock,Atletismo,Assassins Creed,60,80,30,Comum
+49,M,52.2,114,B+,Sertanejo,Vôlei,The Witcher,80,50,30,Tanque
+50,M,54.02,90,B+,Rock,Luta,Fortnite,80,50,30,Tanque
+60,M,37.55,135,B-,Funk,Vôlei,Fortnite,80,65,30,Comum
+53,M,63.39,118,B-,Pop,Luta,FIFA,80,50,30,Tanque
+59,M,80.2,82,A+,Outro,Futebol,Minecraft,60,80,30,Comum
+53,F,85.98,143,A+,Eletrônica,Futebol,Rocket League,30,100,55,Corredor
+45,M,75.36,178,O+,Eletrônica,Vôlei,Rocket League,80,45,30,Tanque
+46,M,60.99,111,B-,Outro,eSports,Dota,60,30,65,Comum
+50,M,80.6,177,A+,Rock,Luta,Fortnite,80,30,30,Tanque
+54,F,73.06,161,B+,Pop,Atletismo,Valorant,30,75,55,Corredor
+54,M,41.19,138,B-,Rock,Futebol,Counter-Strike,60,80,30,Comum
+57,F,51.58,108,AB-,Eletrônica,Atletismo,Assassins Creed,30,100,55,Corredor
+59,M,92.68,126,O+,Pop,Futebol,Rocket League,60,80,30,Comum
+60,M,74.83,204,A-,Rock,Nenhum,World of Warcraft,80,30,30,Tanque
+51,F,49.38,128,AB+,Eletrônica,Nenhum,Valorant,30,80,55,Corredor
+59,M,82.3,157,O+,Rock,Vôlei,World of Warcraft,80,50,30,Tanque
+46,M,85.92,132,A-,Outro,Atletismo,Outro,60,80,30,Comum
+49,F,63.47,107,A+,Outro,Nenhum,World of Warcraft,30,65,55,Corredor
+45,F,79.87,161,A-,Sertanejo,eSports,World of Warcraft,30,25,75,Comum
+49,M,13.9,189,B-,Funk,eSports,World of Warcraft,80,25,50,Tanque
+52,M,84.6,172,B-,Sertanejo,Nenhum,Minecraft,60,30,30,Comum
+59,F,87.63,188,A+,Pop,Nenhum,Fortnite,50,45,55,Comum
+52,F,53.13,144,O+,Sertanejo,Luta,League of Legends,50,65,70,Estrategista
+56,F,74.23,140,B-,Eletrônica,Nenhum,World of Warcraft,30,80,55,Corredor
+59,F,64.93,156,A-,Outro,Futebol,The Witcher,30,95,55,Corredor
+52,M,68.46,133,AB+,Eletrônica,Luta,Outro,80,65,30,Comum
+58,M,63.63,125,A+,Outro,Basquete,Dota,60,50,65,Estrategista
+51,F,50.02,92,AB+,Outro,Atletismo,Rocket League,30,95,55,Corredor
+47,M,98.36,171,B+,Outro,Futebol,FIFA,60,60,30,Comum
+59,F,65.35,141,O+,Outro,eSports,Counter-Strike,30,45,75,Estrategista
+51,F,71.57,92,AB+,Outro,Luta,Assassins Creed,50,65,55,Comum
+45,M,54.86,85,O+,Rock,Vôlei,Fortnite,80,50,30,Tanque
+56,F,54.45,193,B-,Sertanejo,Basquete,Assassins Creed,50,45,75,Estrategista
+60,F,76.19,172,A-,Pop,Nenhum,FIFA,30,45,55,Comum
+60,M,77.9,152,O-,Funk,Basquete,Assassins Creed,60,65,50,Comum
+47,M,83.17,96,AB+,Sertanejo,Nenhum,Counter-Strike,60,50,30,Comum
+56,F,86.56,132,AB+,Pop,Nenhum,Counter-Strike,30,65,55,Corredor
+52,M,66.85,109,O+,Sertanejo,Luta,Fortnite,80,50,30,Tanque
+59,M,63.34,129,A-,Sertanejo,Atletismo,Fortnite,60,80,30,Comum
+52,M,81.2,133,O+,Rock,Nenhum,Outro,60,50,30,Comum
+59,M,60.44,118,O-,Outro,Vôlei,Assassins Creed,80,50,30,Tanque
+55,M,83.08,98,A+,Eletrônica,Luta,World of Warcraft,80,65,30,Comum
+47,M,75.62,162,A-,Outro,Luta,Valorant,80,30,30,Tanque
+51,F,87.33,147,AB-,Funk,Luta,Dota,50,80,70,Estrategista
+46,M,80.06,156,AB-,Funk,Luta,FIFA,80,65,30,Comum
+48,F,54.18,174,O+,Sertanejo,Luta,Fortnite,50,45,55,Comum
+52,F,57.02,173,O-,Rock,eSports,Dota,30,25,90,Comum
+58,F,80.99,190,B+,Sertanejo,Nenhum,FIFA,50,45,55,Comum
+56,M,98.61,168,AB+,Sertanejo,Nenhum,Fortnite,60,30,30,Comum
+45,M,50.16,154,O-,Pop,Luta,Dota,80,50,45,Tanque
+50,F,70.35,128,A-,Rock,Vôlei,Valorant,50,65,55,Comum
+49,F,74.23,101,O+,Pop,Vôlei,Outro,50,65,55,Comum
+50,F,47.11,158,AB+,Sertanejo,Luta,League of Legends,50,65,70,Estrategista
+58,F,77.17,131,A+,Funk,Vôlei,Assassins Creed,50,80,55,Comum
+50,M,68.6,200,AB+,Sertanejo,Nenhum,Outro,80,30,30,Tanque
+48,F,38.55,125,AB+,Funk,Futebol,FIFA,30,100,55,Corredor
+56,M,94.33,148,A-,Pop,Futebol,World of Warcraft,60,80,30,Comum
+53,F,57.05,149,O-,Sertanejo,Basquete,World of Warcraft,30,65,75,Estrategista
+45,M,50.76,96,A+,Sertanejo,Futebol,Counter-Strike,60,80,30,Comum
+46,M,76.3,117,B+,Pop,eSports,Minecraft,60,30,50,Comum
+50,F,78.36,80,A-,Funk,Basquete,Fortnite,30,80,75,Estrategista
+57,F,81.05,148,A-,Outro,Nenhum,Rocket League,30,65,55,Corredor
+49,F,64.21,146,AB-,Pop,eSports,Rocket League,30,45,75,Estrategista
+46,F,69.84,162,AB-,Sertanejo,Vôlei,Outro,50,45,55,Comum
+58,M,59.04,118,O-,Rock,Luta,Rocket League,80,50,30,Tanque
+58,M,50.35,108,A+,Sertanejo,eSports,Counter-Strike,60,30,50,Comum
+50,M,86.19,130,B-,Pop,Luta,League of Legends,80,50,45,Tanque
+45,M,68.46,152,AB+,Sertanejo,Futebol,League of Legends,60,80,45,Comum
+51,M,67.27,108,A-,Funk,Vôlei,Fortnite,80,65,30,Comum
+53,F,40.01,151,O-,Outro,Atletismo,World of Warcraft,30,95,55,Corredor
+53,M,67.32,155,A+,Funk,Nenhum,League of Legends,60,65,45,Comum
+51,F,57.36,165,AB-,Sertanejo,Luta,Counter-Strike,50,45,55,Comum
+59,M,67.38,129,A-,Outro,Vôlei,Valorant,80,50,30,Tanque
+60,M,66.71,143,A+,Rock,Luta,Rocket League,80,50,30,Tanque
+48,F,63.3,177,O-,Pop,Nenhum,Rocket League,30,45,55,Comum
+49,M,84.08,119,A+,Pop,Futebol,Outro,60,80,30,Comum
+49,M,76.71,139,B+,Rock,Atletismo,Fortnite,60,80,30,Comum
+55,F,86.91,200,A+,Pop,Luta,Counter-Strike,70,45,55,Tanque
+55,M,50.13,149,O+,Eletrônica,Vôlei,The Witcher,80,65,30,Comum
+56,F,60.27,168,O+,Outro,Basquete,FIFA,30,45,75,Estrategista
+48,M,69.4,149,AB-,Outro,eSports,Valorant,60,30,50,Comum
+51,F,63.9,170,O-,Outro,Luta,Valorant,50,45,55,Comum
+57,M,68.81,155,A+,Pop,Basquete,Dota,60,50,65,Estrategista
+50,M,52.27,133,B-,Rock,Nenhum,The Witcher,60,50,30,Comum
+55,F,59.26,133,O+,Eletrônica,Nenhum,Minecraft,30,80,55,Corredor
+58,F,45.38,133,AB+,Rock,Vôlei,Counter-Strike,50,65,55,Comum
+54,M,56.65,160,O+,Pop,Nenhum,World of Warcraft,60,50,30,Comum
+53,M,80.41,141,O-,Pop,Luta,Minecraft,80,50,30,Tanque
+57,M,66.79,139,O-,Eletrônica,Atletismo,Minecraft,60,95,30,Comum
+46,M,92.59,142,O-,Funk,Futebol,Outro,60,95,30,Comum
+48,M,61.07,148,B+,Rock,Futebol,Rocket League,60,80,30,Comum
+53,F,71.79,187,O+,Sertanejo,Vôlei,League of Legends,70,45,70,Tanque
+56,F,51.8,112,AB+,Outro,eSports,Fortnite,30,45,75,Estrategista
+55,M,109.01,172,A-,Rock,Atletismo,Minecraft,60,60,30,Comum
+59,F,67.32,127,O-,Eletrônica,Nenhum,Fortnite,30,80,55,Corredor
+58,F,82.44,130,B+,Rock,Nenhum,Assassins Creed,30,65,55,Corredor
+46,M,76.2,136,O-,Funk,Nenhum,FIFA,60,65,30,Comum
+59,M,61.24,99,B+,Rock,Atletismo,Fortnite,60,80,30,Comum
+59,M,50.04,121,A+,Rock,Nenhum,Rocket League,60,50,30,Comum
+50,F,72.34,136,B-,Rock,Futebol,Assassins Creed,30,95,55,Corredor
+59,M,61.65,122,A+,Sertanejo,Basquete,Valorant,60,50,50,Comum
+53,F,67.67,179,AB-,Outro,Vôlei,League of Legends,50,45,70,Estrategista
+45,F,79.77,115,B-,Funk,Atletismo,Assassins Creed,30,100,55,Corredor
+48,F,71.17,135,AB-,Eletrônica,eSports,The Witcher,30,60,75,Estrategista
+52,F,75.66,122,O+,Outro,Luta,Valorant,50,65,55,Comum
+58,F,72.25,178,O-,Funk,Vôlei,Valorant,50,60,55,Comum
+57,F,47.99,100,B+,Rock,Futebol,The Witcher,30,95,55,Corredor
+46,F,90.94,152,B+,Eletrônica,Nenhum,Minecraft,30,80,55,Corredor
+52,F,87.64,176,B-,Funk,Luta,Assassins Creed,50,60,55,Comum
+53,F,52.96,182,A+,Funk,Vôlei,World of Warcraft,70,60,55,Comum
+45,M,77.58,145,O-,Sertanejo,Vôlei,League of Legends,80,50,45,Tanque
+52,F,60.07,192,A+,Sertanejo,Basquete,World of Warcraft,50,45,75,Estrategista
+50,F,58.8,111,B+,Funk,Luta,Assassins Creed,50,80,55,Comum
+60,F,69.93,123,A+,Outro,Nenhum,Valorant,30,65,55,Corredor
+60,F,96.22,124,B+,Eletrônica,eSports,Rocket League,30,60,75,Estrategista
+55,M,85.87,148,O+,Rock,Futebol,FIFA,60,80,30,Comum
+54,M,79.08,77,B+,Rock,Vôlei,Counter-Strike,80,50,30,Tanque
+54,M,52.74,168,AB-,Sertanejo,Basquete,Dota,60,30,65,Comum
+51,M,108.32,177,A-,Rock,Futebol,Rocket League,60,60,30,Comum
+53,F,83.11,131,O-,Eletrônica,Luta,Valorant,50,80,55,Comum
+52,F,34.77,178,B-,Pop,Futebol,The Witcher,30,75,55,Corredor
+60,F,75.99,157,B-,Sertanejo,eSports,Rocket League,30,45,75,Estrategista
+50,M,62.67,111,O+,Rock,Luta,Outro,80,50,30,Tanque
+54,F,76.15,119,A-,Funk,Futebol,Counter-Strike,30,100,55,Corredor
+46,M,76.01,125,O-,Pop,Luta,Fortnite,80,50,30,Tanque
+45,M,56.22,150,O-,Eletrônica,Vôlei,Assassins Creed,80,65,30,Comum
+45,F,97.39,168,A-,Eletrônica,Nenhum,Rocket League,30,60,55,Comum
+56,M,73.0,160,AB+,Outro,Luta,The Witcher,80,50,30,Tanque
+59,M,84.12,121,B+,Sertanejo,Futebol,Counter-Strike,60,80,30,Comum
+50,F,90.27,143,AB-,Pop,Atletismo,Counter-Strike,30,95,55,Corredor
+51,F,58.93,122,AB+,Outro,Nenhum,The Witcher,30,65,55,Corredor
+48,M,56.32,187,O-,Outro,Futebol,Dota,80,60,45,Comum
+60,M,86.83,128,B+,Outro,eSports,The Witcher,60,30,50,Comum
+51,F,90.89,138,B-,Rock,Futebol,Outro,30,95,55,Corredor
+58,M,49.34,131,AB+,Sertanejo,Futebol,FIFA,60,80,30,Comum
+56,M,100.17,104,O-,Pop,Atletismo,Valorant,60,80,30,Comum
+56,M,66.47,138,B+,Eletrônica,Nenhum,Rocket League,60,65,30,Comum
