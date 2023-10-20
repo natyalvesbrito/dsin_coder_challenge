@@ -119,11 +119,9 @@ Os cientistas criaram um chip que será implantado nos patos. Sua missão é cri
 
 ### Sistema construído:
 
-Inteligência artificial treinada para identificar os zumbis pela imagem e classificá-los (tanque, corredor, estrategista, mutante e comum), as classes foram pensadas de acordo com os atributos força, velocidade e inteligência. 
+Inteligência artificial do modelo YOLOv5 treinada para identificar os zumbis pela imagem e classificá-los (tanque, corredor, estrategista, mutante e comum), as classes foram pensadas de acordo com os atributos força, velocidade e inteligência. O score de periculosidade também é atribuído de acordo com o tipo do zumbi.
 
-O score de periculosidade também é atribuído de acordo com o tipo do zumbi.
-
-Interface para poder ser realizada a simulação do ambiente real, onde é mostrada uma imagem aleatória e ações são sugeridas para o pato a partir dela. Está no arquivo "auxilio_pato_IA.py".
+Interface foi construída para poder ser realizada a simulação do ambiente real, onde é mostrada uma imagem aleatória e ações são sugeridas para o pato a partir dela. Está no arquivo "auxilio_pato_IA.py".
 
 ## Versões da IA e evolução
 
